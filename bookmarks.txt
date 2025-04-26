@@ -1,0 +1,9 @@
+pg. 14 of 829 'Hello, World!'
+pg. 18
+pg. 25 Programming a guessing game
+pg. 34
+pg. 40
+pg. 52 Variables
+pg. 62 Operators
+pg. 69 Functions
+pg. 74 Expressions vs Statements
